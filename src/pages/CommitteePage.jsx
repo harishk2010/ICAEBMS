@@ -1,4 +1,3 @@
-import React from "react";
 import SectionWrapper from "../components/SectionWrapper";
 import SectionHeader from "../components/SectionHeader";
 

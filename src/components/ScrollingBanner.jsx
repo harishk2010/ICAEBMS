@@ -1,4 +1,4 @@
-import React from "react";
+
 
 export default function ScrollingBanner({ text, className = "" }) {
   // Duplicate text for seamless loop

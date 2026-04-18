@@ -1,4 +1,3 @@
-import React from "react";
 import { CheckCircle, Clock } from "lucide-react";
 
 export default function DeadlineCard({ icon, label, date, done }) {

@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { ArrowRight, MapPin, Calendar, Globe, BookOpen, Award } from "lucide-react";
 import ScrollingBanner from "../components/ScrollingBanner";

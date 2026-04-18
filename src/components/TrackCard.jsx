@@ -1,4 +1,3 @@
-import React from "react";
 
 const colorMap = {
   blue: "from-blue-500 to-blue-700 bg-blue-50 text-blue-900 border-blue-100",

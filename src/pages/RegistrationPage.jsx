@@ -1,6 +1,5 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import SectionWrapper from "../components/SectionWrapper";
-import SectionHeader from "../components/SectionHeader";
 import { CheckCircle } from "lucide-react";
 
 const PLANS = [

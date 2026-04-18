@@ -1,6 +1,6 @@
-import React from "react";
+
 import { Link } from "react-router-dom";
-import { Mail, Phone, MapPin, ExternalLink, Globe } from "lucide-react";
+import { Mail, MapPin, ExternalLink, Globe } from "lucide-react";
 import { CONFERENCE, NAV_LINKS } from "../data/conferenceData";
 
 export default function Footer() {

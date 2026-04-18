@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 
 function getTimeLeft(targetDate) {
   const diff = new Date(targetDate) - new Date();

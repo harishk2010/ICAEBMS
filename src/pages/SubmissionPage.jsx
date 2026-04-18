@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import SectionWrapper from "../components/SectionWrapper";
 import SectionHeader from "../components/SectionHeader";
 

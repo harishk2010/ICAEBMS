@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { Mail, Globe, MapPin, Phone } from "lucide-react";
+import { useState } from "react";
+import { Mail, Globe, MapPin } from "lucide-react";
 import SectionWrapper from "../components/SectionWrapper";
 import SectionHeader from "../components/SectionHeader";
 
